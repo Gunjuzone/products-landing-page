@@ -28,5 +28,7 @@ nav {
 }
 
 @media (max-width: 650px) {
+   body{
   background-color: #ff3399;
+}
 }
