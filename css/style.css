@@ -3,8 +3,30 @@ body {
   font-family: "Lato", sans-serif;
 }
 
-nav
-{
-   position: fixed;
-   top: 0px;
+nav {
+  position: fixed;
+  top: 0px;
+}
+
+.features-table {
+  display: flex;
+  flex-direction: column;
+}
+
+.feature {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.feature h3 {
+  align-self: flex-start;
+}
+
+.feature p {
+  align-self: flex-end;
+}
+
+@media (max-width: 650px) {
+  background-color: #ff3399;
 }
