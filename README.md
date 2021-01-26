@@ -1,1 +1,2 @@
-# products-landing-page
+# Coding challenge #3
+
