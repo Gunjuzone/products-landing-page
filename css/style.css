@@ -49,7 +49,7 @@ p {
 }
 
 @media (max-width: 650px) {
-   body{
-  background-color: #ff3399;
-}
+  body {
+    background-color: #ff3399;
+  }
 }
